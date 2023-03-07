@@ -29,6 +29,8 @@ An experienced system administrator with 9 years of experience in the field of m
 # Code example
 
 ```js
+// Function slicePrice make space between numbers in price, 
+// example: for 12345.67 result will be 12 345.67
 export const slicePrice = (price) => {
   if (price) {
     const stringPrice = price.toString()
