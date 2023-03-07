@@ -8,6 +8,7 @@
 - **E-mail:** [antasth@mail.ru](antasth@mail.ru)
 - **GitHub:** [antasth](https://github.com/antasth)
 - **LinkedIn:** [anton-astashov](https://www.linkedin.com/in/anton-astashov-223bb4268/)
+- **Discord username:** antasth
 
 # Summary
 
@@ -40,9 +41,16 @@ export const slicePrice = (price) => {
 }
 ```
 
+# My Projects
+
+- TopSmart - my first React project. Smartphones shop on React (with search, cart, favorites, compare page)
+  * https://github.com/antasth/ReactShop
+- Timer - Watches shop, on development stage. During the development of this project I plan to study Redux Toolkit and TypeScript. Now it contains database based on mockapi, cart, sorting, filtering, search and pagination components.
+  * https://github.com/antasth/ReactTimer
+
 # Education
 
-- STATE HIGHER EDUCATION ESTABLISHMENT «DONETSK NATIONAL TECHNICAL UNIVERSITY»
+- State higher education establishment «DONETSK NATIONAL TECHNICAL UNIVERSITY»
   * information systems and technologies
 
 # Courses
@@ -62,3 +70,4 @@ export const slicePrice = (price) => {
 - Russian 
 - Ukrainian 
 - English (Intermediate)
+![EFset result](/img/efset_result.png)
