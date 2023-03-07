@@ -44,9 +44,9 @@ export const slicePrice = (price) => {
 # My Projects
 
 - TopSmart - my first React project. Smartphones shop on React (with search, cart, favorites, compare page)
-  * https://github.com/antasth/ReactShop
+  * [TopSmart](https://github.com/antasth/ReactShop)
 - Timer - Watches shop, on development stage. During the development of this project I plan to study Redux Toolkit and TypeScript. Now it contains database based on mockapi, cart, sorting, filtering, search and pagination components.
-  * https://github.com/antasth/ReactTimer
+  * [Timer](https://github.com/antasth/ReactTimer)
 
 # Education
 
@@ -69,5 +69,5 @@ export const slicePrice = (price) => {
 
 - Russian 
 - Ukrainian 
-- English (Intermediate)
+- English (Intermediate)  
 ![EFset result](/img/efset_result.png)
