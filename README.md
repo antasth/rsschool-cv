@@ -1,1 +1,1 @@
-https://antasth.github.io/rsschool-cv/cv
+https://antasth.github.io/rsschool-cv/
